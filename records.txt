@@ -1,5 +1,0 @@
-112:02-99893878:Brown:Sarah:B:12:Electrician:09-02-1992
-131:02-95673456:Couch:David:A:26:Consultant:23-04-1994
-236:02-95437869:Anderson:Sarah:K:19:CEO:21-09-1988
-000:15151515:sd:cs:cs:1:cs:1-1-1999
-869:02-95671660:Jones:Sarah:B:45:Sales Manager:14-12-1995
